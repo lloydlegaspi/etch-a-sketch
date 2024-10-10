@@ -1,7 +1,7 @@
 # Etch-a-Sketch
 
 ## Project Overview
-This project is part of the Foundations Course aimed at improving DOM manipulation skills in JavaScript. The browser-based Etch-a-Sketch application allows users to create a grid and sketch on it by hovering over the squares. Users can also dynamically adjust the grid size and enjoy a unique darkening effect for each square as it interacts with the mouse.
+This project is part of the The Odin Project: Foundations Course aimed at improving DOM manipulation skills in JavaScript. The browser-based Etch-a-Sketch application allows users to create a grid and sketch on it by hovering over the squares. Users can also dynamically adjust the grid size and enjoy a unique darkening effect for each square as it interacts with the mouse.
 
 The challenge here is to practice using Flexbox for layout and enhance your JavaScript skills by manipulating the DOM dynamically.
 
